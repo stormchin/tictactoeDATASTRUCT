@@ -1,3 +1,10 @@
+/* ************************************ */
+//   Storm Chin   (Jan 26th 202)        //
+//   Dr.Ung Data Struct and Algorithims //
+//         1-1:50pm Spring MWF          //
+/* ************************************ */
+
+
 #include <iostream>
 #include "Player.h"
 #include "Board.h"
